@@ -1,0 +1,64 @@
+body {font-size: small;
+      font-family: Verdana, Helvetica, Arial, sans-serif;
+      line-height: 1.2em;
+      background-color: #2e8b88;}
+
+
+#heads { background: url(img/floss_c1.jpg);
+          color:  #dffa00;
+          text-align: center;
+             padding: 15px;
+             margin: 10px;
+             height: 100px; 
+             font-size: 350%; }
+
+#heads h1  { color:  #dffaf9; }
+
+#left  { background: #dffaf9;
+             font-size: 105%;
+             padding: 15px;
+             margin: 5px;
+             width: 170px;
+             float: left; }
+
+#right  { background: #dffaf9;
+             font-size: 105%;
+             padding: 15px;
+             margin: 5px; 
+             width: 170px;
+             float: right; }
+
+#vishito { background: url(stitch/wood.jpg) ;
+             font-family: Georgia, "Times New Roman", Times, serif;
+             font-size: 105%;
+             padding: 15px;
+             margin: 10px; 
+             margin: 15px 220px 10px 220px }  
+
+#niz { background-color: #bbb;
+        text-align: center;
+        padding: 5px;
+        margin: 10px;
+        font-size: 70%;
+        line-height: 1em;
+        clear:  right;
+        clear:  left;  }
+
+
+h1, h2 {color: #2e8b88;}
+h1 {font-size: 150%;}
+h2 {font-size: 130%;}
+
+
+a:link { color: green;}
+a:visited { color: red;}
+a:hover { color: yellow;}
+
+
+blockquote {font-style : italic;}
+#comment {font-style : italic;
+           font-size: 0.8em;
+           padding: 3px;
+           border: 1px thin;
+           border-style: inset; 
+           border-color: white;}
